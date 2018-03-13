@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08a6b89f-0f54-49a5-b5fa-b1e81cd274bd" name="Default" comment="" />
+    <list default="true" id="08a6b89f-0f54-49a5-b5fa-b1e81cd274bd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$USER_HOME$/Library/Developer/Xcode/DerivedData/SwiftCacheSimulator-avtlbskuhejhnkflxzbboulacyzr/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +16,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.swift" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/main.swift">
+        <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/main.swift">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="719">
               <caret line="75" column="18" lean-forward="true" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
@@ -24,7 +26,7 @@
         </entry>
       </file>
       <file leaf-file-name="Block.swift" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/Simulator/Block.swift">
+        <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/Simulator/Block.swift">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
               <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
@@ -34,7 +36,7 @@
         </entry>
       </file>
       <file leaf-file-name="Address.swift" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/Simulator/Address.swift">
+        <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/Simulator/Address.swift">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="588">
               <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
@@ -44,7 +46,7 @@
         </entry>
       </file>
       <file leaf-file-name="19-bb354-big.out" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/19-bb354-big.out">
+        <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/19-bb354-big.out">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1399327">
               <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
@@ -54,7 +56,7 @@
         </entry>
       </file>
       <file leaf-file-name="18-bb354-big.out" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/18-bb354-big.out">
+        <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/18-bb354-big.out">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
@@ -64,7 +66,7 @@
         </entry>
       </file>
       <file leaf-file-name="Cache.swift" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/Simulator/Cache.swift">
+        <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/Simulator/Cache.swift">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
               <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
@@ -74,7 +76,7 @@
         </entry>
       </file>
       <file leaf-file-name="16-bb354-setassoc.out" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/16-bb354-setassoc.out">
+        <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/16-bb354-setassoc.out">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
@@ -84,7 +86,7 @@
         </entry>
       </file>
       <file leaf-file-name="Line.swift" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/Simulator/Line.swift">
+        <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/Simulator/Line.swift">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
               <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
@@ -94,7 +96,7 @@
         </entry>
       </file>
       <file leaf-file-name="ex1.out" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/ex1.out">
+        <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/ex1.out">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -104,7 +106,7 @@
         </entry>
       </file>
       <file leaf-file-name="ex2.out" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/ex2.out">
+        <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/ex2.out">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -121,20 +123,23 @@
       <find>Int(</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SwiftCacheSumulator/data/in-sample/19-bb354-big.in" />
-        <option value="$PROJECT_DIR$/SwiftCacheSumulator/data/in-sample/18-bb354-big.in" />
-        <option value="$PROJECT_DIR$/SwiftCacheSumulator/data/in-sample/ex1.in" />
-        <option value="$PROJECT_DIR$/SwiftCacheSumulator/data/in-sample/ex2.in" />
-        <option value="$PROJECT_DIR$/SwiftCacheSumulator/data/in-sample/ex3.in" />
-        <option value="$PROJECT_DIR$/SwiftCacheSumulator/Simulator/Address.swift" />
-        <option value="$PROJECT_DIR$/SwiftCacheSumulator/Simulator/Metadata.swift" />
-        <option value="$PROJECT_DIR$/SwiftCacheSumulator/Simulator/Block.swift" />
-        <option value="$PROJECT_DIR$/SwiftCacheSumulator/Simulator/Cache.swift" />
-        <option value="$PROJECT_DIR$/SwiftCacheSumulator/Simulator/Line.swift" />
-        <option value="$PROJECT_DIR$/SwiftCacheSumulator/main.swift" />
+        <option value="$PROJECT_DIR$/SwiftCacheSimulator/data/in-sample/19-bb354-big.in" />
+        <option value="$PROJECT_DIR$/SwiftCacheSimulator/data/in-sample/18-bb354-big.in" />
+        <option value="$PROJECT_DIR$/SwiftCacheSimulator/data/in-sample/ex1.in" />
+        <option value="$PROJECT_DIR$/SwiftCacheSimulator/data/in-sample/ex2.in" />
+        <option value="$PROJECT_DIR$/SwiftCacheSimulator/data/in-sample/ex3.in" />
+        <option value="$PROJECT_DIR$/SwiftCacheSimulator/Simulator/Address.swift" />
+        <option value="$PROJECT_DIR$/SwiftCacheSimulator/Simulator/Metadata.swift" />
+        <option value="$PROJECT_DIR$/SwiftCacheSimulator/Simulator/Block.swift" />
+        <option value="$PROJECT_DIR$/SwiftCacheSimulator/Simulator/Cache.swift" />
+        <option value="$PROJECT_DIR$/SwiftCacheSimulator/Simulator/Line.swift" />
+        <option value="$PROJECT_DIR$/SwiftCacheSimulator/main.swift" />
       </list>
     </option>
   </component>
@@ -148,6 +153,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1200" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -216,12 +222,12 @@
       <option name="presentableId" value="Default" />
       <updated>1520912051445</updated>
       <workItem from="1520912054279" duration="7168000" />
-      <workItem from="1520919441949" duration="6589000" />
+      <workItem from="1520919441949" duration="7043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13757000" />
+    <option name="totallyTimeSpent" value="14211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -232,8 +238,8 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956523" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956523" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956523" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -258,49 +264,49 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in/12-bb354-setassoc.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in/12-bb354-setassoc.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in/16-bb354-setassoc.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in/16-bb354-setassoc.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="11" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in/07-bb354-fullassoc.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in/07-bb354-fullassoc.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in/03-bb354-directmapped.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in/03-bb354-directmapped.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="6" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in/02-bb354-directmapped.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in/02-bb354-directmapped.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in/01-bb354-directmapped.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in/01-bb354-directmapped.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in/19-bb354-big.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in/19-bb354-big.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="46415" column="19" lean-forward="false" selection-start-line="46415" selection-start-column="19" selection-end-line="46415" selection-end-column="19" />
@@ -308,7 +314,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in/18-bb354-big.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in/18-bb354-big.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140000">
           <caret line="10000" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10000" selection-end-column="0" />
@@ -316,8 +322,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in-sample/19-bb354-big.in" />
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/18-bb354-big">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in-sample/19-bb354-big.in" />
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/18-bb354-big">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -325,7 +331,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/18-bb354-big.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/18-bb354-big.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -333,7 +339,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in/14-bb354-setassoc.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in/14-bb354-setassoc.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="6" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
@@ -341,7 +347,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in-sample/18-bb354-big.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in-sample/18-bb354-big.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
@@ -349,7 +355,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/06-bb354-fullassoc.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/06-bb354-fullassoc.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -357,7 +363,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in-sample/ex3.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in-sample/ex3.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
@@ -365,7 +371,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in-sample/ex2.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in-sample/ex2.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
@@ -373,7 +379,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in-sample/ex1.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in-sample/ex1.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
@@ -381,7 +387,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/08-bb354-fullassoc.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/08-bb354-fullassoc.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -389,7 +395,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/02-bb354-directmapped.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/02-bb354-directmapped.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -397,7 +403,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in/00-bb354-directmapped.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in/00-bb354-directmapped.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -405,7 +411,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in/05-bb354-directmapped.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in/05-bb354-directmapped.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -413,7 +419,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in/08-bb354-fullassoc.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in/08-bb354-fullassoc.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -421,7 +427,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in/13-bb354-setassoc.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in/13-bb354-setassoc.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
@@ -429,7 +435,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in/15-bb354-setassoc.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in/15-bb354-setassoc.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -437,7 +443,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/in/11-bb354-fullassoc.in">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/in/11-bb354-fullassoc.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -445,7 +451,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/Simulator/Metadata.swift">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/Simulator/Metadata.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
@@ -453,7 +459,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/12-bb354-setassoc.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/12-bb354-setassoc.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -461,7 +467,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/11-bb354-fullassoc.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/11-bb354-fullassoc.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -469,7 +475,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/10-bb354-fullassoc.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/10-bb354-fullassoc.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -477,7 +483,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/03-bb354-directmapped.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/03-bb354-directmapped.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -485,7 +491,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/01-bb354-directmapped.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/01-bb354-directmapped.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -493,7 +499,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/00-bb354-directmapped.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/00-bb354-directmapped.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -501,7 +507,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/04-bb354-directmapped.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/04-bb354-directmapped.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -509,7 +515,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/05-bb354-directmapped.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/05-bb354-directmapped.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -517,7 +523,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/07-bb354-fullassoc.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/07-bb354-fullassoc.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -525,7 +531,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/09-bb354-fullassoc.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/09-bb354-fullassoc.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -533,7 +539,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/13-bb354-setassoc.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/13-bb354-setassoc.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -541,7 +547,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/14-bb354-setassoc.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/14-bb354-setassoc.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -549,7 +555,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/15-bb354-setassoc.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/15-bb354-setassoc.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -557,7 +563,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/ex3.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/ex3.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
@@ -565,7 +571,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/17-bb354-setassoc.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/17-bb354-setassoc.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -573,7 +579,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/16-bb354-setassoc.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/16-bb354-setassoc.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
@@ -581,7 +587,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/ex1.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/ex1.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -589,7 +595,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/ex2.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/ex2.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -597,7 +603,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/Simulator/Line.swift">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/Simulator/Line.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
@@ -605,7 +611,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/main.swift">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/main.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="719">
           <caret line="75" column="18" lean-forward="true" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
@@ -613,7 +619,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/Simulator/Cache.swift">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/Simulator/Cache.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
@@ -621,7 +627,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/18-bb354-big.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/18-bb354-big.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
@@ -629,7 +635,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/data/out/19-bb354-big.out">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/data/out/19-bb354-big.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1399327">
           <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
@@ -637,7 +643,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/Simulator/Block.swift">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/Simulator/Block.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
@@ -645,7 +651,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SwiftCacheSumulator/Simulator/Address.swift">
+    <entry file="file://$PROJECT_DIR$/SwiftCacheSimulator/Simulator/Address.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
           <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />

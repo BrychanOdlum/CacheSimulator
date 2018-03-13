@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SwiftCacheSumulator.iml" filepath="$PROJECT_DIR$/.idea/SwiftCacheSumulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SwiftCacheSimulator.iml" filepath="$PROJECT_DIR$/.idea/SwiftCacheSimulator.iml" />
     </modules>
   </component>
 </project>

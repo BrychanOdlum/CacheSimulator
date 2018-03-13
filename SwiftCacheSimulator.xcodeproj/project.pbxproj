@@ -50,7 +50,7 @@
 		717492FB2052E60C0015C7AB /* 12-bb354-setassoc.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = "12-bb354-setassoc.in"; sourceTree = "<group>"; };
 		717492FC2052E60C0015C7AB /* 04-bb354-directmapped.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = "04-bb354-directmapped.in"; sourceTree = "<group>"; };
 		717492FD2052E60C0015C7AB /* 11-bb354-fullassoc.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = "11-bb354-fullassoc.in"; sourceTree = "<group>"; };
-		717492FF205310220015C7AB /* Address.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Address.swift; path = SwiftCacheSumulator/Simulator/Address.swift; sourceTree = SOURCE_ROOT; };
+		717492FF205310220015C7AB /* Address.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Address.swift; path = SwiftCacheSimulator/Simulator/Address.swift; sourceTree = SOURCE_ROOT; };
 		71D5A675205774910059A44B /* Cache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cache.swift; sourceTree = "<group>"; };
 		71D5A677205779C60059A44B /* Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Block.swift; sourceTree = "<group>"; };
 		982D419EEBDAECE40C5DC1FA /* out */ = {isa = PBXFileReference; lastKnownFileType = folder; path = out; sourceTree = "<group>"; };
@@ -75,7 +75,7 @@
 		717492D52052E5E60015C7AB = {
 			isa = PBXGroup;
 			children = (
-				717492E02052E5E60015C7AB /* SwiftCacheSumulator */,
+				717492E02052E5E60015C7AB /* SwiftCacheSimulator */,
 				717492DF2052E5E60015C7AB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -88,14 +88,14 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		717492E02052E5E60015C7AB /* SwiftCacheSumulator */ = {
+		717492E02052E5E60015C7AB /* SwiftCacheSimulator */ = {
 			isa = PBXGroup;
 			children = (
 				717492E82052E5F80015C7AB /* data */,
 				71D5A6742057747F0059A44B /* Simulator */,
 				717492E12052E5E60015C7AB /* main.swift */,
 			);
-			path = SwiftCacheSumulator;
+			path = SwiftCacheSimulator;
 			sourceTree = "<group>";
 		};
 		717492E82052E5F80015C7AB /* data */ = {
@@ -173,7 +173,7 @@
 			dependencies = (
 			);
 			name = SwiftCacheSimulator;
-			productName = SwiftCacheSumulator;
+			productName = SwiftCacheSimulator;
 			productReference = 717492DE2052E5E60015C7AB /* SwiftCacheSimulator */;
 			productType = "com.apple.product-type.tool";
 		};
